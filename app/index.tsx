@@ -50,7 +50,7 @@ export default function LandingPage() {
     <ScrollView style={styles.container} showsVerticalScrollIndicator={false}>
       {/* Hero Section */}
       <View style={styles.hero}>
-        <Text style={styles.heroTitle}>Shopping List</Text>
+        <Text style={styles.heroTitle}>Billing and subscriptions</Text>
         <Text style={styles.heroSubtitle}>
           Organize your shopping lists, track your budget, and shop smarter with our intelligent shopping companion
         </Text>
